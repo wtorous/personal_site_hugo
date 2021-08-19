@@ -1,19 +1,21 @@
 ---
-title: "An example conference paper"
+title: "An Optimal Transport Approach to Causal Inference"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Florian Gunsilius
+- Philippe Rigollet
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- MIT
+- University of Michigan
+- MIT
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-08-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,18 +25,18 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *arXiv*
+publication_short: In *arXiv*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We propose a method based on optimal transport theory for causal inference in classical treatment and control study designs. Our approach sheds a new light on existing approaches and generalizes them to settings with high-dimensional data. The implementation of our method leverages recent advances in computational optimal transport to produce an estimate of high-dimensional counterfactual outcomes. The benefits of this extension are demonstrated both on synthetic and real data that are beyond the reach of existing methods. In particular, we revisit the classical Card & Krueger dataset on the effect of a minimum wage increase on employment in fast food restaurants and obtain new insights about the impact of raising the minimum wage on employment of full- and part-time workers in the fast food industry.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We extend to CiC estimator to higher dimensions with optimal transport-based methodology.
 
-tags: []
+tags: [causal inference, optimal transport]
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2108.05858.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,10 +57,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
