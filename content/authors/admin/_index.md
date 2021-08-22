@@ -14,18 +14,19 @@ organizations:
   url: https://www.stat.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: At the intersection of causal inference and optimal transport.
 
 # Interests to show in About widget
 interests:
 - Causal Inference
 - Optimal Transport
 - Small and Sparse Datasets
+- Signal Processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: BS in Mathematics with Computer Science
+  - course: BS in Mathematics with Computer Science, Minor in Literature
     institution: Massachusetts Institute of Technology
     year: 2021
 
@@ -36,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:first_initial+last_name@berkeley.edu'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=oNpZiBwAAAAJ
@@ -61,8 +62,4 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a first-year PhD student in the statistics department at the University of California, Berkeley. My current research interests lie at the intersection of causal infernce and optimal transport. 
