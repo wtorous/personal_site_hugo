@@ -9,7 +9,7 @@ date: "2021-05-23T00:00:00Z"
 
 links:
 url_code: "https://github.com/dyllew/18.065-fp"
-url_pdf: ""
+url_pdf: "https://raw.githubusercontent.com/dyllew/18.065-fp/main/18.065_Final_Project.pdf"
 
 ---
 
