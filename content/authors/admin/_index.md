@@ -14,7 +14,7 @@ organizations:
   url: https://www.stat.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student at the intersection of causal inference and optimal transport.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -25,9 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Statistics
-    institution: University of California, Berkeley
-    year: 2021 - Present
   - course: BS in Mathematics with Computer Science
     institution: Massachusetts Institute of Technology
     year: 2021
@@ -61,9 +58,11 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-I am a first-year PhD student in the statistics department at the University of California, Berkeley.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
