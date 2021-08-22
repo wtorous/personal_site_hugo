@@ -1,14 +1,11 @@
 ---
 title: Music Artist Network Analysis
-summary: We cluster a graph of musicians to predict genres.
+summary: With Dylan Lewis. We cluster a graph of musicians to predict genres.
 tags:
 - Music
 - Clustering
 - Network Analysis
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-# external_link: "https://github.com/dyllew/18.065-fp"
+date: "2021-05-23T00:00:00Z"
 
 links:
 url_code: "https://github.com/dyllew/18.065-fp"
