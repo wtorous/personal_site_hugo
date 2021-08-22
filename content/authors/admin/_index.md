@@ -26,7 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BS in Mathematics with Computer Science, Minor in Literature
+  - course: PhD in Statistics
+    institution: University of California, Berkeley
+    year: August 2021 - Present
+  - course: SB in Mathematics with Computer Science, Minor in Literature
     institution: Massachusetts Institute of Technology
     year: 2021
 
