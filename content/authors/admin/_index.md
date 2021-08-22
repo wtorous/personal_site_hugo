@@ -28,7 +28,7 @@ education:
   - course: PhD in Statistics
     institution: University of California, Berkeley
     year: 2021 - Present
-  - course: BS in Mathematics with Computer Science
+  - course: SB in Mathematics with Computer Science with a Minor in Literature
     institution: Massachusetts Institute of Technology
     year: 2021
 
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:first_initial+last_name@berkeley.edu'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=oNpZiBwAAAAJ
@@ -65,5 +65,3 @@ highlight_name: true
 ---
 
 I am a first-year PhD student in the statistics department at the University of California, Berkeley.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
