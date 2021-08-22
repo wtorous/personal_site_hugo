@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: On *arXiv*
+publication_short: On *arXiv*
 
 abstract: We propose a method based on optimal transport theory for causal inference in classical treatment and control study designs. Our approach sheds a new light on existing approaches and generalizes them to settings with high-dimensional data. The implementation of our method leverages recent advances in computational optimal transport to produce an estimate of high-dimensional counterfactual outcomes. The benefits of this extension are demonstrated both on synthetic and real data that are beyond the reach of existing methods. In particular, we revisit the classical Card & Krueger dataset on the effect of a minimum wage increase on employment in fast food restaurants and obtain new insights about the impact of raising the minimum wage on employment of full- and part-time workers in the fast food industry.
 
@@ -47,13 +47,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2108.05858.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -77,13 +71,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
