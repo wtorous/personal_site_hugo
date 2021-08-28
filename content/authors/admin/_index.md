@@ -65,4 +65,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a first-year PhD student in the statistics department at the University of California, Berkeley. My current research interests lie at the intersection of causal infernce and optimal transport. 
+I am a first-year PhD student in the [statistics department](https://statistics.berkeley.edu/) at the University of California, Berkeley. My current research interests lie at the intersection of causal infernce and optimal transport. I am also interested in signal processing and applications of statistics in music technology.
+
+Before Berkeley, I studied at MIT and graduated with a bachelor's in mathematics with computer science and a minor in literature. There I had the great fortune to research with [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) and [Florian Gunsilius](https://www.floriangunsilius.com/). Our paper introducing an optimal transport-based causal inference metholodology can be found [on arXiv](https://arxiv.org/pdf/2108.05858.pdf). I also learned tremendously from research experiences in [Beth Israel Deaconess Medical Center's Division of Digital Psychitary](https://www.digitalpsych.org/) and MIT's [System Architecture Group](http://systemarchitect.mit.edu/).   
