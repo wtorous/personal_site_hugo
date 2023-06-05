@@ -20,7 +20,7 @@ bio: Greetings from the Golden State!
 interests:
 - Causal Inference
 - Dynamical Systems
-- Methodology in Genetics
+- Methodology in Genomics
 - Optimal Transport
 - Signal Processing
 
