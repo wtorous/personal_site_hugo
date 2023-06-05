@@ -1,6 +1,6 @@
 ---
 title: Pediatric Cervical Spine Injury Prediction
-summary: With Yaxuan Huang and Ishaan Srivastava. We use the PCS framework to vett current ER decision rules for diagnosing cervical spine injuries in children and propose our own.
+summary: With Yaxuan Huang and Ishaan Srivastava. We use the PCS framework to vet current ER decision rules for diagnosing cervical spine injuries in children and propose our own.
 tags:
 - Medicine 
 date: "2021-12-11T00:00:00Z"
