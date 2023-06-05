@@ -8,7 +8,7 @@ authors:
 - Hao Wang
 - admin
 - Boying Gong
-- William Torous
+- Elizabeth Purdom
 
 # Author notes (optional)
 author_notes:
