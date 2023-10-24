@@ -20,7 +20,7 @@ bio: Greetings from the Golden State!
 interests:
 - Causal Inference
 - Dynamical Systems
-- Methodology in Genomics
+- Methodology for Genomic Data
 - Optimal Transport
 - Signal Processing
 
@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a second-year PhD student in the [statistics department](https://statistics.berkeley.edu/) at the University of California, Berkeley. My thesis advisor is [Elizabeth Purdom](https://www.stat.berkeley.edu/~epurdom/), and I also work with [Giles Hooker](https://www.gileshooker.com/). My current research includes estimation of higher-dimensional probability densities and inference of stable dynamical systems from data. I am further interested in causal inference, as well as signal processing and applications of statistics to music technology.
+I am a third-year PhD student in the [statistics department](https://statistics.berkeley.edu/) at the University of California, Berkeley. My thesis advisor is [Elizabeth Purdom](https://www.stat.berkeley.edu/~epurdom/), and I also work with [Giles Hooker](https://www.gileshooker.com/). My current research includes estimation of higher-dimensional probability densities and inference of stable dynamical systems from data. I am additionally interested in causal inference, as well as signal processing and applications of statistics to music technology.
 
 Before Berkeley, I studied at MIT and graduated with a bachelor's in mathematics with computer science and a minor in literature. There I had the great fortune to research with [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) and [Florian Gunsilius](https://www.floriangunsilius.com/). I also learned tremendously from research experiences in [Beth Israel Deaconess Medical Center's Division of Digital Psychitary](https://www.digitalpsych.org/) and MIT's [System Architecture Group](http://systemarchitect.mit.edu/).   
